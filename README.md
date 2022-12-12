@@ -6,12 +6,12 @@ In my personal life, I love listening to music, and always try to find the lates
 
 ## Some projects that I've worked on!
 
-### (Mobile App for Cultural Survival)[https://github.com/calblueprint/cultural-survival-mobile]
+### [Mobile App for Cultural Survival](https://github.com/calblueprint/cultural-survival-mobile)
 * Worked with Cultural Survival, an indigenous led NGO. 
 * Created a mobile application that works as a streaming and downloading platform for Cultural Survival's podcasts. 
 * Used React Native, Typescript, MongoDB, and Node.js to build the frontend, backend, and connection to the database. 
 
-### (JayZam)[https://github.com/davidqing6432/JayZam]
+### [JayZam](https://github.com/davidqing6432/JayZam)
 * Used HTML/CSS/JS and Python to create an audio recognition software. 
 * Trained a Convolutional Neural Network (CNN) to recognize snippets of songs. 
 * Created a User Interface using frontend web development tools. 
