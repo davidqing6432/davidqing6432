@@ -4,6 +4,30 @@ I'm going to UC Berkeley, class of 2025.
 
 I love music, and always am listening to something new if I can!
 
+## Some projects that I've worked on!
+
+### Mobile App for Cultural Survival
+* Worked with Cultural Survival, an indigenous led NGO. 
+* Created a mobile application that works as a streaming and downloading platform for Cultural Survival's podcasts. 
+* Used React Native, Typescript, MongoDB, and Node.js to build the frontend, backend, and connection to the database. 
+
+### JayZam
+* Used HTML/CSS/JS and Python to create an audio recognition software. 
+* Trained a Convolutional Neural Network (CNN) to recognize snippets of songs. 
+* Created a User Interface using frontend web development tools. 
+
+### Gitlet, a version of Git, the version control system
+* Used Java to implement commits, staging, branches, merging
+* Created test cases for thorough unit testing. 
+
+### A Scheme Interpreter using Python
+* Implemented an evaluation system for a Scheme interpreter. 
+* Used an imperative programming paradigm to interpret a functional programming paradigm.
+
+### Voice-controlled Robot
+* Created a driving robot based off a microcontroller. 
+* Implemented signal processing of the voice to recognize different words.
+
 ## Classes I've taken in Berkeley!
 
 ### CS61A: The Structure and Interpretation of Computer Programs
@@ -60,15 +84,3 @@ I love music, and always am listening to something new if I can!
 * Discrete Time control, Stabilization, Controllability, Gram-Schmidt
 * SVD, PCA
 </details>
-
-## Some things that I've worked on!
-
-### Gitlet, a version of Git, the version control system. 
-* Used Java to implement commits, staging, branches, merging
-* Created test cases for thorough unit testing. 
-### A Scheme Interpreter using Python as its basis. 
-* Implemented an evaluation system for a Scheme interpreter. 
-* Used an imperative programming paradigm to interpret a functional programming paradigm.
-### Voice-controlled Robot
-* Created a driving robot based off a microcontroller. 
-* Implemented signal processing of the voice to recognize different words.
