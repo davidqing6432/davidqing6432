@@ -1,6 +1,6 @@
 # Hi! I'm David Qing.
 
-I'm going to UC Berkeley, class of 2025. Computer science has always been an interest of mine, and I'm so glad to be working in the field now!
+I'm going to UC Berkeley, class of 2024. Computer science has always been an interest of mine, and I'm so glad to be working in the field now!
 
 In my personal life, I love listening to music, and always try to find the latest album!
 
