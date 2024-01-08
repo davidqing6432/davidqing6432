@@ -1,10 +1,21 @@
 # Hi! I'm David Qing.
 
-I'm going to UC Berkeley, class of 2024. Computer science has always been an interest of mine, and I'm so glad to be working in the field now!
+I'm going to UC Berkeley, class of 2025. Computer science has always been an interest of mine, and I'm so glad to be working in the field now!
 
 In my personal life, I love listening to music, and always try to find the latest album!
 
 ## Some projects that I've worked on!
+
+### [Grading Portal for Web Design Decal](https://github.com/webdesigndecal/grading-portal)
+* Building the grading portal for a class I teach, the Web Design Decal.
+* Allows users to submit and view assignments, as well as providing static web hosting. 
+* Creating designs and the lead developer for the project, working in Next.js and Supabase.
+
+### [Matching Portal for Immigration Justice Project](https://github.com/calblueprint/immigration-justice-project)
+#### [View the App](https://immigration-justice-project.vercel.app/cases)
+* Building a portal matching attorneys with immigration dispute cases.
+* Designing the user interface from zero-to-one using user research, usability testing, and design principles using Figma. 
+* Creating the web application using Next.js and Supabase (with Typescript and Styled Components), shipped on Vercel.
 
 ### [Mobile App for Cultural Survival](https://github.com/calblueprint/cultural-survival-mobile)
 * Worked with Cultural Survival, an indigenous led NGO. 
@@ -28,30 +39,30 @@ In my personal life, I love listening to music, and always try to find the lates
 * Created a driving robot based off a microcontroller. 
 * Implemented signal processing of the voice to recognize different words.
 
-## Classes I've taken in Berkeley!
+## Classes I've taken in Berkeley (in chronological order-ish)!
 
-### CS61A: The Structure and Interpretation of Computer Programs
+### Data 8: Foundations of Data Science
 <details>
    <summary>Topics</summary>
-   
-* Basic Python (variables, functions, iteration, recursion, lists)
-* Containers, iterators, generators, iterables
-* OOP, linked lists, trees
-* Scheme, interpreters
-* Regex, BNF, SQL
-</details> 
+  
+</details>
 
-### CS61B: Data Structures
+### CS161: Computer Security
 <details>
    <summary>Topics</summary>
-   
-* Basic Java (classes, variables, methods, compilation)
-* Using Git and Github
-* Pointers, Arrays, OOP
-* Unit-Testing
-* Abstraction, Packages, Implementation
-* Data Structures and Complexity (Trees, Linked Lists, BSTs, B-trees, Red-Black Trees, Graphs)
-* Searching and Sorting, Graph Theory, Dynamic Programming
+  
+</details>
+
+### CS162: Operating Systems
+<details>
+   <summary>Topics</summary>
+  
+</details>
+
+### CS170: Efficient Algorithms and Intractable Problems
+<details>
+   <summary>Topics</summary>
+  
 </details>
 
 ### CS70: Discrete Mathematics and Probability Theory
@@ -66,6 +77,30 @@ In my personal life, I love listening to music, and always try to find the lates
 * Discrete and Continuous Probability (Expectation, Variance, Covariance, Correlation, LLSE)
 * Markov Chains (Markov's Theory, Invariant Distribution)
 </details>
+
+### CS61B: Data Structures
+<details>
+   <summary>Topics</summary>
+   
+* Basic Java (classes, variables, methods, compilation)
+* Using Git and Github
+* Pointers, Arrays, OOP
+* Unit-Testing
+* Abstraction, Packages, Implementation
+* Data Structures and Complexity (Trees, Linked Lists, BSTs, B-trees, Red-Black Trees, Graphs)
+* Searching and Sorting, Graph Theory, Dynamic Programming
+</details>
+
+### CS61A: The Structure and Interpretation of Computer Programs
+<details>
+   <summary>Topics</summary>
+   
+* Basic Python (variables, functions, iteration, recursion, lists)
+* Containers, iterators, generators, iterables
+* OOP, linked lists, trees
+* Scheme, interpreters
+* Regex, BNF, SQL
+</details> 
    
 ### EECS16 A & B: Designing Information Devices and Systems I & II
 <details>
